@@ -14,11 +14,11 @@ public class LibroRepository {
 
     public LibroRepository() {
         libros = new ArrayList<>();
-        libros.add(new Libro(1L, "Don Quijote de la Mancha", "Miguel de Cervantes", "Francisco de Robles", 1605));
-        libros.add(new Libro(2L, "La sombra del viento", "Carlos Ruiz Zafón", "Planeta", 2001));
-        libros.add(new Libro(3L, "Rayuela", "Julio Cortázar", "Editorial Sudamericana", 1963));
-        libros.add(new Libro(4L, "El amor en los tiempos del cólera", "Gabriel García Márquez", "Editorial Oveja Negra", 1985));
-        libros.add(new Libro(5L, "Pedro Páramo", "Juan Rulfo", "Editorial Fondo de Cultura Económica", 1955));
+        libros.add(new Libro(1L, "A History", "Jonathan Clements", "British Film Institute", 2013));
+        libros.add(new Libro(2L, "The Anime Machine", "Thomas Lamarre", "University of Minnesota Press", 2009));
+        libros.add(new Libro(3L, "Anime Explosion!", "JPatrick Drazen", "Stone Bridge Press", 2002));
+        libros.add(new Libro(4L, "Beautiful Fighting Girl", "Saitō Tamaki", "University of Minnesota Press", 2011));
+        libros.add(new Libro(5L, "Anime's Media Mix", "Marc Steinberg", "University of Minnesota Press", 2012));
     }
 
     public List<Libro> obtenerTodosLosLibros() {
