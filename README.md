@@ -1,23 +1,33 @@
 # Web_Libro_Diana
 Primeramente, consideramos en organizar las carpetas como en clase para que sea más fácil de comprender, una vez ya instalas todas las extensiones, vamos desde la carpeta java renombrando como se indica en el enunciado del deber com.tuuniversidad.controller/com.tuuniversidad.models/com.tuuniversidad.repository/com.tuuniversidad.service.
 
-![image](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/07d8894b-da29-46c7-a6a5-97467059e90f)
+![1](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/cbc1c840-193f-4b8a-b070-7a59fb42657d)
+
 
 Hacemos la creación del repositorio con el paquete com.tuuniversidad.repository. llamando una instancia del repository, la elaboración del paquete com.tuuniversidad.service. de igual manera llamará el repository, y com.tuuniversidad.controllers, crea una clase LibroController que tendrá los siguientes endpoints: GET /libros: Retorna una lista de todos los libros. GET /libros/{id_libro}: Retorna un libro por el id. POST /libros: crea un nuevo recurso libro. Utiliza anotaciones como @RestController, @RequestMapping, @GetMapping, @PostMapping para definir el controlador y los endpoints.
 
-![image](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/62a4ba78-e456-405d-b832-36f9bb1bfd1d)
-![image](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/6f12db40-b51f-4909-b2c3-4eca5e305072)
-![image](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/ef437cbc-3cfd-4a81-b8ac-d680c92ca6b3)
-![image](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/c3845956-e1b8-4101-8d13-c25a06d88c83)
+![2](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/bf8ff0ed-3114-43b1-88ae-a5dade90e99a)
+![3](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/42bea1b7-35e1-434a-bc41-80427f795c05)
+![4](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/9a6d66ef-95c1-4cf4-a274-fee17208b94d)
+![5](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/ed441079-440d-4b76-8c38-b1a2d391d394)
+
+
 # Damos clic para que se ejecute Spring.
-![image](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/f009c6a5-89b1-4a93-b7cd-76d316ebbba6)
+![Spring](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/7fc66c97-0fc9-4771-b150-2fc2f54c9947)
+
+
 # Utiliza herramientas como Postman 
-![image](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/944b4695-7ab4-4594-9ada-137b61baf612)
+![POSTMAN](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/9e784064-0b3a-4ec4-8ee7-1f78a4bb5e75)
+
+
 # Demostración del GET buscando la tabla y POST formación de una tabla nueva.
-![image](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/251aa6a4-e93c-4f91-bb00-f49b2f8ed673)
-![image](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/007d140d-fd65-4152-9ba0-76e3d92fe78d)
+![Get](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/49255359-8410-45d8-806e-4de70d9641f1)
+![Post](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/c335ed81-971a-4655-8723-3572fb1bf686)
+
+
 # Explorador
-![image](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/fde2d452-d8f8-430c-ab1f-78126ec6acb5)
+![Explorador](https://github.com/Diana29004/Web_Libro_Diana/assets/170267544/6c4ba104-25eb-44d9-a881-5475abc4d00b)
+
 
 
 
